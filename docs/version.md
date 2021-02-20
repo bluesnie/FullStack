@@ -4,6 +4,9 @@
 版本信息
 
 ```text
+0.0.3
+恢复跟踪 settings
+
 0.0.2
 README.md 添加展示图
 
