@@ -16,8 +16,10 @@ FullStack
 
 ### 页面1：实时数据 url
 - `http://127.0.0.1:8000/app/dynamic_chart/dynamic_chart_template1/`
+- 展示：![](./page1.png)
 
 ### 页面2：100 数据 url
 - `http://127.0.0.1:8000/app/dynamic_chart/dynamic_chart_template2/`
+- 展示：![](./page2.png)
 
 > ps：页面 1 右边为最新数据，页面 2 左边为**保存的**最新数据
