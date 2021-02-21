@@ -14,6 +14,8 @@ FullStack
     └── requirements.txt          # 项目依赖包
 ```
 
+## [前端项目链接](https://github.com/bluesnie/FullStack-pc)
+
 ### 页面1：实时数据 url
 - `http://127.0.0.1:8000/app/dynamic_chart/dynamic_chart_template1/`
 - 展示：![](./page1.png)
